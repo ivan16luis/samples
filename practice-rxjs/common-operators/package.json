@@ -1,0 +1,19 @@
+{
+  "name": "common-operators",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^7.3.0",
+    "typescript": "^4.5.4",
+    "vite": "^2.9.9"
+  },
+  "dependencies": {
+    "@reactivex/rxjs": "^6.6.7",
+    "rxjs": "^7.5.5"
+  }
+}
